@@ -1,0 +1,21 @@
+name: Förslag
+description: En idé, något som saknas eller något som är krångligt.
+title: "[Förslag] "
+labels: ["förslag"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tack för idén! Genom att skicka ett förslag godkänner du att det får användas fritt i Körkort 2026 (se FEEDBACK.md).
+  - type: textarea
+    id: problem
+    attributes:
+      label: Vad vill du kunna göra?
+      description: Beskriv behovet eller det som är krångligt i dag.
+    validations:
+      required: true
+  - type: textarea
+    id: forslag
+    attributes:
+      label: Ditt förslag
+      description: Hur skulle det kunna fungera?

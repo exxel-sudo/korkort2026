@@ -1,0 +1,50 @@
+name: Felrapport
+description: Ett fel i en fråga eller förklaring, eller något i appen som inte fungerar.
+title: "[Fel] "
+labels: ["fel"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tack för att du rapporterar! Ärendet kan läsas av alla — skriv inga personuppgifter.
+        En säkerhetsbrist rapporteras privat enligt SECURITY.md, inte här.
+  - type: dropdown
+    id: plattform
+    attributes:
+      label: Var använder du appen?
+      options:
+        - Windows (från GitHub eller korkortsplugg.se)
+        - Windows (Microsoft Store)
+        - iPhone
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Står under Mer → Om appen.
+      placeholder: "3.0.0"
+    validations:
+      required: true
+  - type: input
+    id: fraga
+    attributes:
+      label: Fråga eller kapitel
+      description: Frågans nummer (står i mejlet från Rapportera fel) eller kapitlets namn, om felet gäller innehållet.
+  - type: textarea
+    id: fel
+    attributes:
+      label: Vad är fel?
+      description: Beskriv felet. Gäller det innehållet, skriv gärna vad som är rätt och var det står.
+    validations:
+      required: true
+  - type: textarea
+    id: steg
+    attributes:
+      label: Hur hände det?
+      description: Gäller felet appen, skriv vad du gjorde steg för steg så att det går att upprepa.
+  - type: textarea
+    id: bilagor
+    attributes:
+      label: Skärmbilder
+      description: Dra in skärmbilder här om de hjälper.

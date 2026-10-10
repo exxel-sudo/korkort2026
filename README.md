@@ -11,11 +11,12 @@
 
 ## Ladda ner
 
-- **Windows 11:** ladda ner `Korkort2026-Setup-<version>.exe` under
+- **Microsoft Store (rekommenderas):** **[apps.microsoft.com/detail/9P14BB6JF4TK](https://apps.microsoft.com/detail/9P14BB6JF4TK)**
+  — installeras utan varning från Windows och uppdateras av Microsoft Store.
+- **Windows 11, härifrån:** ladda ner `Korkort2026-Setup-<version>.exe` under
   **[Releases](https://github.com/exxel-sudo/korkort2026/releases/latest)** och kör den. Windows kan visa
-  *"Windows skyddade datorn"* eftersom programmet är nytt och inte kodsignerat: klicka **Mer info → Kör ändå**.
+  *"Windows skyddade datorn"* eftersom programmet inte är kodsignerat: klicka **Mer info → Kör ändå**.
   Programmet uppdaterar sig självt när en ny version kommer.
-- **Microsoft Store:** kommer snart — där installeras appen utan varning och uppdateras av sig själv.
 - **iPhone:** kommer snart till App Store (iOS 16 eller senare).
 
 ## Vad appen gör

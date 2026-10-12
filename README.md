@@ -17,7 +17,7 @@
   **[Releases](https://github.com/exxel-sudo/korkort2026/releases/latest)** och kör den. Windows kan visa
   *"Windows skyddade datorn"* eftersom programmet inte är kodsignerat: klicka **Mer info → Kör ändå**.
   Programmet uppdaterar sig självt när en ny version kommer.
-- **iPhone:** kommer snart till App Store (iOS 16 eller senare).
+- **iPhone:** **[App Store](https://apps.apple.com/se/app/id6821427610)** (iOS 16 eller senare).
 
 ## Vad appen gör
 

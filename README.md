@@ -19,6 +19,21 @@
   Programmet uppdaterar sig självt när en ny version kommer.
 - **iPhone:** **[App Store](https://apps.apple.com/se/app/id6821427610)** (iOS 16 eller senare).
 
+### Rättningar kommer först här på GitHub
+
+När en synpunkt leder till en rättning – till exempel en fråga som skrivs om – läggs den nya Windows-versionen upp
+här på GitHub samma dag. Microsoft Store och Apples App Store måste granska och godkänna varje ny version innan den
+kommer ut där, och det brukar ta från någon timme upp till ett par dagar. Samma rättning kommer alltså till
+Store-versionen och iPhone-appen, men lite senare.
+
+- **Har du installerat härifrån:** du behöver inte göra något. Programmet ser självt efter nya versioner och frågar om
+  du vill installera. Vill du också få ett mejl när en ny version kommer: **Watch → Custom → Releases** överst på den
+  här sidan.
+- **Har du Store-versionen:** den uppdateras av sig själv när Microsoft har godkänt versionen. Installera inte
+  GitHub-versionen ovanpå den – de två versionerna sparar dina framsteg på olika ställen.
+- **iPhone:** den nya versionen kommer via App Store när Apple har godkänt den.
+- **Vad som är rättat** i varje version står under **[Releases](https://github.com/exxel-sudo/korkort2026/releases)**.
+
 ## Vad appen gör
 
 - **Läs teorin** — 28 kapitel i fem delar, från väjningsregler och hastighet till halka, alkohol och första hjälpen.
